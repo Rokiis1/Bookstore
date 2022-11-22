@@ -39,7 +39,7 @@ Create bookstore api where was used Fiber for to handle operations such as routi
 ```http
   POST /api/create_books
 ```
-#### Delete post
+#### Delete book
 
 ```http
   DELETE api/delete_books/:id
