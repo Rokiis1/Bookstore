@@ -1,0 +1,24 @@
+# Ignore object files
+*.o
+
+# Ignore executables
+*.exe
+
+# Ignore test data files
+testdata/
+
+# Ignore coverage profiles
+*.coverprofile
+
+# Ignore compiled Go source code
+*.a
+
+# Ignore vendored dependencies
+vendor/
+bin/
+
+# Ignore environment variables
+.env
+
+# Ignore environment-specific configuration files
+*.env.*
